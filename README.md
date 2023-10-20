@@ -13,3 +13,7 @@ Another advantage of a car booking system is the ability to compare prices and c
 There are three types of users in the system: public, customer, and admin. The public can view the website's index page, but in order to book a car, they must first register as a customer. After that, they will be able to log into the system as a customer and begin making reservations by selecting the type of car, the date of the pickup, and the date of the return. The customer could edit the reservation's details to suit their needs if they wanted to. Customers may also choose to edit the information in their profiles. To make it easier for the customer to prepare for payment, the system will calculate the final cost.
 
 The administrator monitors the car-booking process by reviewing each reservation that a customer has made. In order to confirm the reservation after the customer makes a booking, the admin must first approve or reject the request. In addition, the admin could add or modify vehicles and review all of the car inventories.
+
+<div id="carBookingSystemHomepage" align="center">
+<a href="./portfolio/yIkkha02"><img src="./ikmal.jpg" width="450" height="500"></a>
+</div>
