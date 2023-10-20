@@ -15,5 +15,5 @@ There are three types of users in the system: public, customer, and admin. The p
 The administrator monitors the car-booking process by reviewing each reservation that a customer has made. In order to confirm the reservation after the customer makes a booking, the admin must first approve or reject the request. In addition, the admin could add or modify vehicles and review all of the car inventories.
 
 <div id="carBookingSystemHomepage" align="center">
-<a href="./portfolio/yIkkha02"><img src="./ikmal.jpg" width="450" height="500"></a>
+<a href="./portfolio/yIkkha02"><img src="./ikmal.jpg" width="600" height="400"></a>
 </div>
